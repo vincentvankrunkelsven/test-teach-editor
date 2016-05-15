@@ -5,7 +5,7 @@ attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
 --- type:VideoExercise lang:r xp:50 skills:1 key:9bf6ad565c
-## Analyze movie ratings
+## First, analyze some ratings
 
 *** =video_link
 //player.vimeo.com/video/154783078
@@ -148,7 +148,7 @@ test_error()
 success_msg("Good work!")
 ```
 
---- type:NormalExercise lang:r xp:100 skills:1 key:7e58c96e28
+--- type:NormalExercise lang:r xp:100 skills:1 key:702bae41c0
 ## New Exercise
 
 This is a new exercise, it is created with the datacamp teach editor.
