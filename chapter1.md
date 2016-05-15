@@ -148,7 +148,7 @@ test_error()
 success_msg("Good work!")
 ```
 
---- type:NormalExercise lang:r xp:100 skills:1 key:702bae41c0
+--- type:NormalExercise lang:r xp:100 skills:1 key:7e58c96e28
 ## New Exercise
 
 This is a new exercise, it is created with the datacamp teach editor.
