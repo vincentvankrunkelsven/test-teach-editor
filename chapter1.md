@@ -1,5 +1,5 @@
 ---
-title       : Very First Chapter
+title       : Cool chapterke
 description : Insert the chapter description here
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
@@ -20,6 +20,7 @@ Have a look at the plot that showed up in the viewer to the right. Which type of
 - Action
 - Animation
 - Comedy
+- Another type of movie
 
 *** =hint
 Have a look at the plot. Which color does the point with the lowest rating have?
