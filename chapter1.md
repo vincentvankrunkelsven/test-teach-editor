@@ -4,7 +4,7 @@ description : Insert the chapter description here
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
---- type:VideoExercise lang:r xp:50 skills:1
+--- type:VideoExercise lang:r xp:50 skills:1 
 ## First, analyze some ratings
 
 this is a test 
@@ -12,9 +12,8 @@ this is a test
 *** =video_link
 //player.vimeo.com/video/154783078
 
---- type:MultipleChoiceExercise lang:r xp:50 skills:1
+--- type:MultipleChoiceExercise lang:r xp:50 skills:1 
 ## A really bad movie testing     
-test
 Have a look at the plot that showed up in the viewer to the right. Which type of movie has the worst rating assigned to it?
 
 *** =instructions
@@ -243,7 +242,7 @@ test_error()
 success_msg("Good work!")
 ```
 
---- type:NormalExercise lang:r xp:100 skills:1 key:f04f2d4412
+--- type:NormalExercise lang:r xp:100 skills:1 key:e1aa39b786
 ## New Exercise
 
 This is a new exercise, it is created with the datacamp teach editor.
