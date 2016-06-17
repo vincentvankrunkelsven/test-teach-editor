@@ -4,15 +4,15 @@ description : Insert the chapter description here
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
---- type:VideoExercise lang:r xp:50 skills:1 
+--- type:VideoExercise lang:r xp:50 skills:1 key:364a3dbe82
 ## First, analyze some ratings
 
 this is a test 
-
+test
 *** =video_link
 //player.vimeo.com/video/154783078
 
---- type:MultipleChoiceExercise lang:r xp:50 skills:1 
+--- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:4700cb8458
 ## A really bad movie testing     
 Have a look at the plot that showed up in the viewer to the right. Which type of movie has the worst rating assigned to it?
 
